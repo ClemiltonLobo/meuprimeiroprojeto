@@ -20,4 +20,5 @@ public class CreateItem : MonoBehaviour
             SpawnObject();
         }
     }
+	//
 }
